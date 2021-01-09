@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="board_name">Game Board</string>
+    <string name="slot_1">Slot 1</string>
+    <string name="slot_2">Slot 2</string>
+    <string name="slot_3">Slot 3</string>
+    <string name="slot_0">Slot 0</string>
+    <string name="slot_4">Slot 4</string>
+    <string name="slot_5">Slot 5</string>
+    <string name="slot_6">Slot 6</string>
+    <string name="slot_7">Slot 7</string>
+    <string name="slot_8">Slot 8</string>
+    <string name="restart_button">RESTART GAME</string>
+</resources>
